@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+## Flutter
+- 위젯 기반
+- 언어 : Dart
+
+## 참조 강의
+[코딩애플 Flutter로 만드는 iOS, Android 앱](https://codingapple.com/course-status/)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
